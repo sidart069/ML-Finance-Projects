@@ -4,5 +4,4 @@
 ### The project has been divided into several sub sections :
 #### 1. Supervised Learning and Finance 
 #### 2. Unsupervised Learning and Finance
-
-
+#### 3. Using NLP for Quantitative Finance (NLTK and SpaCy)
